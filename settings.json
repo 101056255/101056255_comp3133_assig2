@@ -1,0 +1,10 @@
+{
+    "emulator.emulatorPathWindows": "C:\\Users\\Edward Philip\\AppData\\Local\\Android\\Sdk\\emulator",
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 2,
+    "php.validate.executablePath": "D:\\Edward Philip\\Downloads\\php-8.0.3-nts-Win32-vs16-x64\\php.exe",
+    "html.format.templating": true,
+    "phpserver.phpPath": "D:\\Edward Philip\\Downloads\\php-8.0.3-nts-Win32-vs16-x64\\php.exe",
+    "phpserver.port": 1235,
+    "phpserver.relativePath": "D:\\mobile2\\assignment2"
+}
